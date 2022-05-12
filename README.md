@@ -1,4 +1,4 @@
-💻 Hi there, we are the MetaAudit.⚡
+💻 Hi there, we are MetaAudit.⚡
 
 We are the team of engineers and analysts specialized in blockchain technology and business analytics with wide experience on crypto market. Our core team is famous for its market reports made during 2017-2018 bullish market and technical evaluation of the projects.
 
