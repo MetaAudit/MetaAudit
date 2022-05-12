@@ -4,7 +4,7 @@ We are the team of engineers and analysts specialized in blockchain technology a
 
 We provide affordable yet intensive smart contracts audits. Our team of experienced solidity smart contract auditors performs audits for tokens, NFTs, crowdsales, marketplaces, gambling games, financial protocols, and more! We leverage a combination of static analysis, automated tools, and a robust manual review process to provide industry-leading security recommendations to project teams.
 
-- ⛏ Free Smart Contract security checks.
+- ⛏ Smart Contract security checks.
 - 🛠 Full Smart Contract security audit.
 - 💻 Smart Contracts development
 - Farming/ Staking/ Vault smart contracts.
@@ -12,13 +12,17 @@ We provide affordable yet intensive smart contracts audits. Our team of experien
 
 ### Connect with us:
 
+
+
 [<img align="left" alt="MetaAudit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][medium]
 [<img align="left" alt="MetaAudit | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br />
 
 
-[medium]: mailto: audit@meta-audit.io
-[telegram]: https://t.me/web3_Developers
+
+[medium]: mailto:audit@meta-audit.io
+[telegram]: https://t.me/web3_developers
+
 
 
 <!---
