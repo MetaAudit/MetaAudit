@@ -10,7 +10,15 @@ We provide affordable yet intensive smart contracts audits. Our team of experien
 - Farming/ Staking/ Vault smart contracts.
 - Any contracts with your custom logic and requirements.
 
+### Connect with us:
 
+[<img align="left" alt="MetaAudit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][medium]
+[<img align="left" alt="MetaAudit | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+<br />
+
+
+[medium]: mailto: audit@meta-audit.io
+[telegram]: https://t.me/web3_Developers
 
 
 <!---
